@@ -14,7 +14,7 @@ body{
 #header{
     width:100%;
     height: 150vh;
-    background-image: url(Images/mee.jpeg);
+    background-image: url(mee.jpeg);
     background-size: cover;
     background-position: center;
 }
@@ -321,7 +321,7 @@ nav .fa-solid{
 }
 @media only screen and (max-width: 600px){
     #header{
-        background-image: url(Images/asif.jpeg);
+        background-image: url(asif.jpeg);
     }
     .header-text{
         margin-top: 100%;
