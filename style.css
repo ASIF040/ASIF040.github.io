@@ -322,7 +322,7 @@ nav .fa-solid{
 }
 @media only screen and (max-width: 600px){
     #header{
-        background-image: url(asif.jpeg);
+        background: linear-gradient(90deg, #FDBB2D 0%, #3A1C71 100%);
     }
     .header-text{
         margin-top: 100%;
@@ -355,21 +355,18 @@ nav .fa-solid{
         top: 25px;
         left: 25px;
         cursor: pointer;
-
     }
     .sub-title{
         font-size: 40px;
     }
     .about-col-1, .about-col-2{
         flex-basis: 100%;
-
     }
     .about-col-1{
         margin-bottom: 30px;
     }
     .about-col-2{
         font-size: 14px;
-
     }
     .tab-links{
         font-size: 16px;
@@ -382,6 +379,7 @@ nav .fa-solid{
         font-size: 14px;
     }
 }
+
 #msg{
     color: #358028;
     margin-top: -40px;
